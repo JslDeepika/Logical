@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Juvva
+ *
+ */
+module Logical {
+}
